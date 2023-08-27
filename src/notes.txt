@@ -1,0 +1,8 @@
+noreferrer keeps external sites from knowing that you have included links to their material on your website.
+In short, noopener is largely a security measure to prevent malicious links from gaining access to a user’s browser.According to Mozilla Developer Network (MDN), the target=”_blank” attribute “now implicitly provides the same <rel> behavior” as noopener.
+
+API: APIs are basically a type of application that stored data in the format of JSON (JavaScript Object Notation) and XML (Extensible Markup Language). It makes it possible for any device to talk to each other.
+
+  
+
+
