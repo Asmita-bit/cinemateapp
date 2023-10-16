@@ -8,19 +8,16 @@ export const Footer = () => {
       </span>
       <ul className="flex flex-wrap items-center mt-3 text-sm font-medium text-gray-500 dark:text-gray-400 sm:mt-0">
         <li>
-          <a href="#" target="_blank" rel="noreferrer" className="mr-4 hover:underline md:mr-6">Instagram</a>
+          <a href="https://www.instagram.com/ashu.artography/" target="_blank" rel="noreferrer" className="mr-4 hover:underline md:mr-6">Instagram</a>
         </li>
         <li>
-          <a href="#" target="_blank" rel="noreferrer" className="mr-4 hover:underline md:mr-6">LinkedIn</a>
+          <a href="https://www.linkedin.com/in/asmita-gupta-162a65227/" target="_blank" rel="noreferrer" className="mr-4 hover:underline md:mr-6">LinkedIn</a>
         </li>
         <li>
-          <a href="#" target="_blank" rel="noreferrer" className="mr-4 hover:underline md:mr-6">Twitter</a>
+          <a href="https://twitter.com/AsmiGupta071" target="_blank" rel="noreferrer" className="mr-4 hover:underline md:mr-6">Twitter</a>
         </li>
         <li>
-          <a href="#" target="_blank" rel="noreferrer" className="mr-4 hover:underline">Youtube</a>
-        </li>
-        <li>
-        <a href="#" target="_blank" className="mr-4 hover:underline" rel="noreferrer">Github</a>
+        <a href="https://github.com/Asmita-bit" target="_blank" className="mr-4 hover:underline" rel="noreferrer">Github</a>
       </li>
       </ul>
     </footer>
